@@ -1,1 +1,1 @@
-This page has moved to https://reiserlab.github.io/Modular-LED-Display/
+This page has moved to <https://reiserlab.github.io/Modular-LED-Display/>
